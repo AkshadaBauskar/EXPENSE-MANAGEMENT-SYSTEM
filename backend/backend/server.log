@@ -1,0 +1,6 @@
+2024-11-07 13:49:16,536 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-11-07 13:49:16,542 - db_helper - INFO - fetch_monthly_summary called
+2024-11-07 13:49:44,892 - db_helper - INFO - fetch_expenses_for_date called with 2024-08-02
+2024-11-07 13:49:44,897 - db_helper - INFO - fetch_monthly_summary called
+2024-11-07 13:50:27,379 - db_helper - INFO - fetch_monthly_summary called
+2024-11-07 13:50:38,600 - db_helper - INFO - fetch_monthly_summary called
