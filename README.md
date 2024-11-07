@@ -29,9 +29,9 @@ The user interacts with the application via the Expense Tracking Frontend. This 
 
 2. **Streamlit App:**
 The frontend is built using Streamlit, which provides a web-based UI with three main features:
-Add/Update: Allows users to input expenses with details such as date, amount, category, and notes.
-Analytics by Category: Displays a breakdown of expenses by category.
-Analytics by Months: Shows monthly summaries of expenses.
+Add/Update tab allows users to input expenses with details such as date, amount, category, and notes.
+Analytics by Category displays a breakdown of expenses by category.
+Analytics by Months shows monthly summaries of expenses.
 Streamlit makes API requests to the backend server when these features are used.
 
 3. **FastAPI Server (Backend):**
@@ -109,6 +109,6 @@ The "Analytics By Months" tab shows the monthly total of expenses with a bar cha
 ## Troubleshooting
 If you encounter issues:
 
-Ensure the FastAPI server is running on localhost:8000.
-Check your MySQL database connection and ensure tables are correctly set up.
-Review server logs in server.log for debugging information.
+1. Ensure the FastAPI server is running on localhost:8000.
+2. Check your MySQL database connection and ensure tables are correctly set up.
+3. Review server logs in server.log for debugging information.
